@@ -1,0 +1,279 @@
+2023-06-09 11:23:41,833:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,833:INFO:root:YAML Loading: ./articles/real.yaml
+2023-06-09 11:23:41,833:INFO:root:Opening ./articles/real.yaml
+2023-06-09 11:23:41,838:INFO:root:Loading Template Files for real.html
+2023-06-09 11:23:41,844:INFO:root:New HTML page has been created for real.html.
+2023-06-09 11:23:41,845:INFO:root:Writing real.html to disk.
+2023-06-09 11:23:41,845:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,845:INFO:root:real.html COMPLETED
+
+
+2023-06-09 11:23:41,845:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,845:INFO:root:YAML Loading: ./articles/prob_retrieval.yaml
+2023-06-09 11:23:41,845:INFO:root:Opening ./articles/prob_retrieval.yaml
+2023-06-09 11:23:41,850:INFO:root:Loading Template Files for prob_retrieval.html
+2023-06-09 11:23:41,855:INFO:root:New HTML page has been created for prob_retrieval.html.
+2023-06-09 11:23:41,856:INFO:root:Writing prob_retrieval.html to disk.
+2023-06-09 11:23:41,856:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,856:INFO:root:prob_retrieval.html COMPLETED
+
+
+2023-06-09 11:23:41,856:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,856:INFO:root:YAML Loading: ./articles/deepspectra.yaml
+2023-06-09 11:23:41,856:INFO:root:Opening ./articles/deepspectra.yaml
+2023-06-09 11:23:41,858:INFO:root:Loading Template Files for deepspectra.html
+2023-06-09 11:23:41,862:INFO:root:New HTML page has been created for deepspectra.html.
+2023-06-09 11:23:41,863:INFO:root:Writing deepspectra.html to disk.
+2023-06-09 11:23:41,863:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,863:INFO:root:deepspectra.html COMPLETED
+
+
+2023-06-09 11:23:41,863:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,863:INFO:root:YAML Loading: ./articles/nerd.yaml
+2023-06-09 11:23:41,863:INFO:root:Opening ./articles/nerd.yaml
+2023-06-09 11:23:41,868:INFO:root:Loading Template Files for nerd.html
+2023-06-09 11:23:41,874:INFO:root:New HTML page has been created for nerd.html.
+2023-06-09 11:23:41,875:INFO:root:Writing nerd.html to disk.
+2023-06-09 11:23:41,875:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,875:INFO:root:nerd.html COMPLETED
+
+
+2023-06-09 11:23:41,875:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,875:INFO:root:YAML Loading: ./articles/multi_task.yaml
+2023-06-09 11:23:41,875:INFO:root:Opening ./articles/multi_task.yaml
+2023-06-09 11:23:41,881:INFO:root:Loading Template Files for multi_task.html
+2023-06-09 11:23:41,887:INFO:root:New HTML page has been created for multi_task.html.
+2023-06-09 11:23:41,889:INFO:root:Writing multi_task.html to disk.
+2023-06-09 11:23:41,889:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,889:INFO:root:multi_task.html COMPLETED
+
+
+2023-06-09 11:23:41,889:INFO:root:CREATING NEW WEB PAGE.
+2023-06-09 11:23:41,889:INFO:root:YAML Loading: ./articles/proteinstatai.yaml
+2023-06-09 11:23:41,889:INFO:root:Opening ./articles/proteinstatai.yaml
+2023-06-09 11:23:41,892:INFO:root:Loading Template Files for proteinstatai.html
+2023-06-09 11:23:41,896:INFO:root:New HTML page has been created for proteinstatai.html.
+2023-06-09 11:23:41,897:INFO:root:Writing proteinstatai.html to disk.
+2023-06-09 11:23:41,897:INFO:root:Link generation for static html files
+2023-06-09 11:23:41,897:INFO:root:proteinstatai.html COMPLETED
+
+
+2023-06-09 11:23:41,898:INFO:root:CREATING LINKS
+2023-06-09 11:23:41,898:INFO:root:Opening ./articles/real.yaml
+2023-06-09 11:23:41,902:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:41,906:INFO:root:Links has been created for real.html
+2023-06-09 11:23:41,907:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:41,907:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:41,912:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,246:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,246:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,273:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,280:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,280:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,290:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,293:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,293:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,293:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,300:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,301:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,301:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,308:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,310:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,310:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,315:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,317:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,317:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,322:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,323:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,323:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,340:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,344:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,344:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,348:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,350:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,350:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,353:INFO:root:Links has been created for real.html
+2023-06-09 11:23:42,354:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,354:INFO:root:CREATING LINKS
+2023-06-09 11:23:42,354:INFO:root:Opening ./articles/prob_retrieval.yaml
+2023-06-09 11:23:42,358:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:42,362:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,363:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:42,363:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:42,368:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,386:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,386:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,393:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,394:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,394:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,399:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,401:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,401:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,401:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,405:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,406:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,406:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,412:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,413:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,413:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,419:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,420:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,420:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,426:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,450:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,450:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,468:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,473:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,473:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,477:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,479:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,479:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,482:INFO:root:Links has been created for prob_retrieval.html
+2023-06-09 11:23:42,483:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,483:INFO:root:CREATING LINKS
+2023-06-09 11:23:42,483:INFO:root:Opening ./articles/deepspectra.yaml
+2023-06-09 11:23:42,485:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:42,488:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,490:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:42,490:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:42,494:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,496:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,496:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,501:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,503:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,503:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,508:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,509:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,509:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,509:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,513:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,515:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,515:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,520:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,522:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,522:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,527:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,528:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,528:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,533:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,535:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,535:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,552:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,556:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,556:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,560:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,561:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,561:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,565:INFO:root:Links has been created for deepspectra.html
+2023-06-09 11:23:42,566:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,566:INFO:root:CREATING LINKS
+2023-06-09 11:23:42,566:INFO:root:Opening ./articles/nerd.yaml
+2023-06-09 11:23:42,571:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:42,575:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,576:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:42,576:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:42,581:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,583:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,583:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,589:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,591:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,591:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,596:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,597:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,597:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,597:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,603:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,604:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,604:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,614:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,615:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,616:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,621:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,623:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,623:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,628:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,629:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,629:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,647:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,651:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,651:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,657:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,658:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,658:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,662:INFO:root:Links has been created for nerd.html
+2023-06-09 11:23:42,663:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,663:INFO:root:CREATING LINKS
+2023-06-09 11:23:42,663:INFO:root:Opening ./articles/multi_task.yaml
+2023-06-09 11:23:42,668:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:42,673:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,674:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:42,674:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:42,679:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,681:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,681:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,687:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,689:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,689:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,694:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,695:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,695:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,695:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,700:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,701:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,701:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,707:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,709:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,709:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,715:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,716:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,716:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,722:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,724:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,724:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,741:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,745:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,745:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,750:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,752:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,752:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,757:INFO:root:Links has been created for multi_task.html
+2023-06-09 11:23:42,758:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,758:INFO:root:CREATING LINKS
+2023-06-09 11:23:42,758:INFO:root:Opening ./articles/proteinstatai.yaml
+2023-06-09 11:23:42,760:INFO:root:Link Loading ./squeeznet-nano.html
+2023-06-09 11:23:42,764:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,766:INFO:root:Writing ./squeeznet-nano.html to disk.
+2023-06-09 11:23:42,766:INFO:root:Link Loading ./nerd.html
+2023-06-09 11:23:42,771:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,772:INFO:root:Writing ./nerd.html to disk.
+2023-06-09 11:23:42,772:INFO:root:Link Loading ./drugai-gan.html
+2023-06-09 11:23:42,779:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,781:INFO:root:Writing ./drugai-gan.html to disk.
+2023-06-09 11:23:42,781:INFO:root:Link Loading ./drugai-gen.html
+2023-06-09 11:23:42,786:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,787:INFO:root:Writing ./drugai-gen.html to disk.
+2023-06-09 11:23:42,787:INFO:root:skipped cv.html file
+2023-06-09 11:23:42,787:INFO:root:Link Loading ./proteinstatai.html
+2023-06-09 11:23:42,792:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,793:INFO:root:Writing ./proteinstatai.html to disk.
+2023-06-09 11:23:42,793:INFO:root:Link Loading ./index.html
+2023-06-09 11:23:42,799:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,800:INFO:root:Writing ./index.html to disk.
+2023-06-09 11:23:42,800:INFO:root:Link Loading ./multi_task.html
+2023-06-09 11:23:42,807:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,809:INFO:root:Writing ./multi_task.html to disk.
+2023-06-09 11:23:42,809:INFO:root:Link Loading ./real.html
+2023-06-09 11:23:42,815:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,816:INFO:root:Writing ./real.html to disk.
+2023-06-09 11:23:42,816:INFO:root:Link Loading ./drugai.html
+2023-06-09 11:23:42,834:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,838:INFO:root:Writing ./drugai.html to disk.
+2023-06-09 11:23:42,838:INFO:root:Link Loading ./prob_retrieval.html
+2023-06-09 11:23:42,843:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,844:INFO:root:Writing ./prob_retrieval.html to disk.
+2023-06-09 11:23:42,844:INFO:root:Link Loading ./deepspectra.html
+2023-06-09 11:23:42,849:INFO:root:Links has been created for proteinstatai.html
+2023-06-09 11:23:42,850:INFO:root:Writing ./deepspectra.html to disk.
+2023-06-09 11:23:42,850:INFO:root:All Process COMPLETED
+
+
