@@ -6,5 +6,4 @@ https://github.com/Gananath/gananath.github.io
 
 Todo:
 Modify navbar header to be compatible with mobile phones.
-Import shared pdfs into a single html file.
 Add additional project summaries.
